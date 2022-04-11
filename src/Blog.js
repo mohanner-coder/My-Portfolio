@@ -27,7 +27,7 @@ function Blog() {
                          <div className="mask__effect"></div>
                      </div>
                       <div className="Blog__meta absolute">
-                         <h5 className="project__text">Naija News</h5>
+                         <h5 className="project__text">Resources I Find Useful</h5>
                          <h4 className="project__text">Instablog Stories</h4>
                          <a href="https://instablog9ja.com/" target="blank" className="blog project__btn btn">Read More</a>
                        </div>
