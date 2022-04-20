@@ -8,9 +8,9 @@ function Blog() {
   return (
     <div className="blog component__space" id="Blog">
       <div className="heading">
-        <h1 className="heading">Latest News</h1>
+        <h1 className="heading">Resources</h1>
         <p className="heading p__color">
-        Keep up with the hottest Nigerian news 
+        Resources I find Helpful
         </p>
         <p className="heading p__color">
           
@@ -22,14 +22,14 @@ function Blog() {
               <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Blog1} alt="" className="project__img" />
+                             <img src={Blog1} alt="" className="project__img"  />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                       <div className="Blog__meta absolute">
-                         <h5 className="project__text">Resources I Find Useful</h5>
-                         <h4 className="project__text">Instablog Stories</h4>
-                         <a href="https://instablog9ja.com/" target="blank" className="blog project__btn btn">Read More</a>
+                         <h5 className="project__text">Resources</h5>
+                         <h4 className="project__text">Free Code Camp</h4>
+                         <a href="https://www.freecodecamp.org/" target="blank" className="blog project__btn btn">Read More</a>
                        </div>
                  </div>
               </div>
@@ -43,9 +43,9 @@ function Blog() {
                          <div className="mask__effect"></div>
                      </div>
                       <div className="Blog__meta absolute">
-                         <h5 className="project__text">Naija News</h5>
-                         <h4 className="project__text">Naira Land Forum</h4>
-                         <a href="https://www.nairaland.com/" target="blank" className="blog project__btn btn">Read More</a>
+                         <h5 className="project__text">Resources</h5>
+                         <h4 className="project__text">Girls Develop It</h4>
+                         <a href="https://girldevelopit.com/" target="blank" className="blog project__btn btn">Read More</a>
                        </div>
                  </div>
               </div>
@@ -60,9 +60,9 @@ function Blog() {
                      </div>
                       <div className="Blog__meta absolute">
                         
-                         <h5 className="project__text">Naija News</h5>
-                         <h4 className="project__text">The Linda Ikeji's Blog</h4>
-                         <a href="https://www.lindaikejisblog.com/" target="blank" className="blog project__btn btn">Read More</a>
+                         <h5 className="project__text">Resources</h5>
+                         <h4 className="project__text">W3 Schools</h4>
+                         <a href="https://www.w3schools.com/" target="blank" className="blog project__btn btn">Read More</a>
                        </div>
                  </div>
               </div>
