@@ -14,10 +14,14 @@ function Contact() {
               </p>
               <p className="hire__text white">
                 <strong>+2348069044946</strong> or email
+                <br/>
                 <a href="mailto:victoria.okafor.ng@gmail.com">
                   
                   <strong>victoria.okafor.ng@gmail.com</strong>
                 </a>
+              </p>
+              <p className="hire__text white"> <a href="https://github.com/mohanner-coder" target="blank"><strong>GIT HUB:Mohanner-coder</strong> </a>
+              
               </p>
             </div>
             <div className="input__box">
